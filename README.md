@@ -1,6 +1,6 @@
 # A Bi-Directional Transformer for Musical Chord Recognition
 
-This repository has the source codes for the paper "A Bi-Directional Transformer for Musical Chord Recognition"(ISMIR19).
+This repository has the source codes for the paper ["A Bi-Directional Transformer for Musical Chord Recognition"(ISMIR19)](https://arxiv.org/abs/1907.02698).
 
 <img src="png/model.png">
 
